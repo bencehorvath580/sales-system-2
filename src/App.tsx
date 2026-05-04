@@ -21,7 +21,7 @@ import AdminPanel from './components/AdminPanel';
 import Login from './components/Login';
 import Calculator from './components/Calculator.tsx';
 import ErrorBoundary from './components/ErrorBoundary';
-import { OnboardingTour } from './components/OnBoardingtour.tsx';
+import { OnboardingTour } from './components/OnBoardingTour.tsx';
 import { GhostBar } from './components/GhostBar';
 import { TimeTravelBar } from './components/TimeTravelBar';
 import { logout } from './firebase';
